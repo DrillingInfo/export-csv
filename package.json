@@ -1,0 +1,12 @@
+{
+  "name": "export-csv",
+  "version": "1.0.0",
+  "description": "Highcharts export-csv plugin",
+  "main": "export-csv.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DrillingInfo/export-csv.git"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
